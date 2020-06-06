@@ -1,0 +1,27 @@
+.form_container{
+    width: 50%;
+    margin: auto;
+    background-color: white;
+
+}
+.nameinput{
+    width: 49%;
+    margin-right: 1px;
+    height: 30px;
+    border: none;
+}
+.ageinput{
+    width:30%;
+    margin-right: 1px;
+    height: 30px;
+    border: none;
+
+}
+.addbutton{
+    width:20%;
+    height: 30px;
+    background-color: rgb(185, 185, 211);
+
+border: none;
+    
+}
